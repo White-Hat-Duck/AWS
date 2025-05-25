@@ -10,3 +10,4 @@ crash.log
 .vscode/
 .DS_Store
 .terraform/
+gitpass.txt
